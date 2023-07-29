@@ -1,0 +1,15 @@
+/Users/jasur/Desktop/gb/m1l11 C# 6 2-x massiv/Home work 7/HomeWork_7_3/bin/Debug/net7.0/HomeWork_7_3
+/Users/jasur/Desktop/gb/m1l11 C# 6 2-x massiv/Home work 7/HomeWork_7_3/bin/Debug/net7.0/HomeWork_7_3.deps.json
+/Users/jasur/Desktop/gb/m1l11 C# 6 2-x massiv/Home work 7/HomeWork_7_3/bin/Debug/net7.0/HomeWork_7_3.runtimeconfig.json
+/Users/jasur/Desktop/gb/m1l11 C# 6 2-x massiv/Home work 7/HomeWork_7_3/bin/Debug/net7.0/HomeWork_7_3.dll
+/Users/jasur/Desktop/gb/m1l11 C# 6 2-x massiv/Home work 7/HomeWork_7_3/bin/Debug/net7.0/HomeWork_7_3.pdb
+/Users/jasur/Desktop/gb/m1l11 C# 6 2-x massiv/Home work 7/HomeWork_7_3/obj/Debug/net7.0/HomeWork_7_3.csproj.AssemblyReference.cache
+/Users/jasur/Desktop/gb/m1l11 C# 6 2-x massiv/Home work 7/HomeWork_7_3/obj/Debug/net7.0/HomeWork_7_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasur/Desktop/gb/m1l11 C# 6 2-x massiv/Home work 7/HomeWork_7_3/obj/Debug/net7.0/HomeWork_7_3.AssemblyInfoInputs.cache
+/Users/jasur/Desktop/gb/m1l11 C# 6 2-x massiv/Home work 7/HomeWork_7_3/obj/Debug/net7.0/HomeWork_7_3.AssemblyInfo.cs
+/Users/jasur/Desktop/gb/m1l11 C# 6 2-x massiv/Home work 7/HomeWork_7_3/obj/Debug/net7.0/HomeWork_7_3.csproj.CoreCompileInputs.cache
+/Users/jasur/Desktop/gb/m1l11 C# 6 2-x massiv/Home work 7/HomeWork_7_3/obj/Debug/net7.0/HomeWork_7_3.dll
+/Users/jasur/Desktop/gb/m1l11 C# 6 2-x massiv/Home work 7/HomeWork_7_3/obj/Debug/net7.0/refint/HomeWork_7_3.dll
+/Users/jasur/Desktop/gb/m1l11 C# 6 2-x massiv/Home work 7/HomeWork_7_3/obj/Debug/net7.0/HomeWork_7_3.pdb
+/Users/jasur/Desktop/gb/m1l11 C# 6 2-x massiv/Home work 7/HomeWork_7_3/obj/Debug/net7.0/HomeWork_7_3.genruntimeconfig.cache
+/Users/jasur/Desktop/gb/m1l11 C# 6 2-x massiv/Home work 7/HomeWork_7_3/obj/Debug/net7.0/ref/HomeWork_7_3.dll
